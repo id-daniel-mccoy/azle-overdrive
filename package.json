@@ -1,0 +1,7 @@
+{
+    "scripts": {
+        "setup-backend": "cd backend && npm install && dfx start --clean --background && dfx canister create --all && dfx build && dfx deploy && dfx stop && echo 'Setup complete!'",
+        "setup-frontend": "cd frontend && npm install && dfx start --clean --background && dfx canister create --all && dfx build && dfx deploy && dfx stop && echo 'Setup complete!'",
+        "setup": "npm run setup-backend && npm run setup-frontend"
+    }
+}
