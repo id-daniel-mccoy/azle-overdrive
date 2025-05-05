@@ -1,6 +1,6 @@
 {
     "scripts": {
-        "setup-backend": "cd backend && npm install && dfx start --clean --background && dfx canister create --all && dfx build && dfx deploy && dfx stop && echo 'Setup complete!'",
+        "setup-backend": "cd backend && npm run setup",
         "setup-frontend": "cd frontend && npm run setup && echo 'Setup complete!'",
         "setup": "npm run setup-backend && npm run setup-frontend"
     }
