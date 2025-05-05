@@ -4,7 +4,7 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "setup": "npm install && dfx start --clean --background && dfx deploy && dfx generate && dfx stop && echo 'Frontend setup complete!'",
+    "setup": "npm install && dfx start --clean --background && dfx deploy && dfx stop && echo 'Frontend setup complete!'",
     "dev": "vite --port 3000",
     "prebuild": "dfx generate",
     "build": "tsc && vite build",
