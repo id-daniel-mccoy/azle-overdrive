@@ -1,42 +1,56 @@
-# Azle Overdrive Course
-## Author: Daniel McCoy
+# 🚀 Azle Overdrive Course  
+**Author: Daniel McCoy**
 
-### Welcome to Azle Overdrive!
+---
 
-This is a course designed to help web developers get started with building fullstack, blockchain based applications using state of the art technology. The content in this course is centered around the Internet Computer blockchain network and aims to help you deploy a fullstack (frontend-backend) applicaton completely on a distributed compute network while learning about the features and use cases of blockchain.
+## 🎓 Welcome to Azle Overdrive!
 
-### Course Outline
+**Azle Overdrive** is a high-speed, high-impact course designed to help web developers start building **fullstack blockchain applications** using modern tools and technologies. This course is centered around the **Internet Computer (ICP)** blockchain and walks you through deploying a fully decentralized app—frontend and backend—entirely on-chain.
 
-This course is broken up into 4 live sessions, which will be represented by branches in this repository. Each branch will have instructions on how to progress, and each completion of a live session will unlock a github invite to the finished versions of those branches.
+Whether you're new to blockchain or an experienced developer looking to transition into Web3 with **TypeScript**, this course will get you building fast.
 
-#### Session 1: Getting Started
+---
 
+## 🗂️ Course Structure
+
+This course is delivered in **4 live sessions**, with each session mapped to a **GitHub branch** in this repository.  
+
+> ✅ Completion of each session unlocks a GitHub invite to the **next branch** containing finished solutions and examples.
+
+---
+
+### 📘 **Session 1: Getting Started**
 - What is the Internet Computer?
 - Why build on ICP?
-- Installing development tools (Ubuntu-based)
-- Basic canister commands
+- Setting up your development environment (Ubuntu-based)
+- Basic canister commands and DFX tooling
 
-#### Session 2: Canister Smart Contracts
-
-- What are canisters?
-- Building your first Azle canister
+### 🧠 **Session 2: Canister Smart Contracts**
+- Introduction to canisters (ICP's smart contracts)
+- Creating your first Azle canister in TypeScript
 - Adding logic and state
 - Deploying and testing with DFX
 
-#### Session 3: Web Frontends & File Hosting
+### 🌐 **Session 3: Frontend & File Hosting**
+- Understanding ICP’s file hosting model
+- Building a frontend in TypeScript
+- Interfacing frontend with your backend canister
+- Adding authentication and web integration
 
-- How ICP serves frontend files
-- Building your frontend in TypeScript
-- Connecting frontend to backend
-- Adding authentication
+### 🚀 **Session 4: Expanding Your Project**
+- Inter-canister interactions and messaging
+- Exploring real-world Web3 apps on ICP
+- Developer resources and R&D tools
+- Project ideas and how to get involved in the community
 
-#### Session 4 – Expanding Your Project
+---
 
-- Inter-canister interactions
-- Real-world dApp examples
-- R&D resources & future exploration
-- Project ideas & community opportunities
+## ⚠️ Disclaimer
 
-### Disclaimer
+This course may evolve as tooling improves. Installation or deployment errors may occur depending on your environment or changes in dependencies. Your feedback is **greatly appreciated** to help improve future versions!
 
-This course is subject to change without notice. This implies there could be errors while installing, building, or deploying any of the modules in this repository. Due to this, any feedback is greatly appreciated.
+---
+
+## 💬 Feedback & Questions?
+
+Feel free to open issues or reach out after class sessions. Collaboration is encouraged—this is how Web3 grows.
