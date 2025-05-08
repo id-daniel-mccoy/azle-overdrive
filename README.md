@@ -4,7 +4,7 @@
 <h2 align="center"><em>⚡ A Fullstack TypeScript Web3 Course on the Internet Computer</em></h2>
 
 <p align="center">
-  <strong>💻 Build sleek, on-chain web apps — no Solidity, no servers. Just TypeScript + Canisters.</strong>
+  <strong>💻 Build sleek, on-chain web apps — no Solidity, no servers. Just TypeScript.</strong>
 </p>
 
 ---
@@ -16,9 +16,9 @@
 | 🗓️   | **May 13 – 16, 2025**            |
 | 🕗   | **8:00 PM – 9:00 PM (ET)**       |
 | 🌍   | **Remote • Interactive • Live** |
-| 🧭   | **4 Sessions • 4 Git Branches** |
+| 🧭   | **4 Sessions • 4 Hours** |
 
-> ✅ Each session unlocks access to the next via GitHub.
+> ✅ Completion of each section unlocks access to the next via GitHub.
 
 ---
 
@@ -60,7 +60,7 @@ Azle Overdrive is a guided sprint that transforms TypeScript developers into ful
 ### 🟣 Session 3 — *Frontend & File Hosting*
 > _Bringing your UI to life_
 
-- Serve files over the Internet Computer
+- Serve files over the web using the Internet Computer
 - Build your frontend in TypeScript
 - Connect backend + frontend
 - Add simple auth and login flow
@@ -80,7 +80,7 @@ Azle Overdrive is a guided sprint that transforms TypeScript developers into ful
 ## 🎨 Why Azle + ICP?
 
 - 🧠 **TypeScript-native** smart contract syntax
-- 🌐 **Host fullstack apps fully on-chain**
+- 🌐 **Host fullstack apps fully on the blockchain**
 - 🚫 **No Solidity**, no gas fees, no vendor lock-in
 - 🔓 **Open source**, extensible tooling
 - 🚀 Built for modern developers with Web3 ambitions
@@ -94,7 +94,7 @@ Azle Overdrive is a guided sprint that transforms TypeScript developers into ful
 This course is actively maintained, but tooling is evolving.  
 You may encounter installation or deployment issues depending on environment or updates.
 
-🔁 **Feedback is welcome. Pull requests encouraged.**
+🔁 **Feedback is always welcome.**
 
 ---
 
