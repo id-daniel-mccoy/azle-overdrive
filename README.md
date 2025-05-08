@@ -1,56 +1,113 @@
-# 🚀 Azle Overdrive Course  
-**Author: Daniel McCoy**
+<!-- HEADER / LOGO -->
+<h1 align="center">Azle Overdrive</h1>
+
+<h2 align="center"><em>⚡ A Fullstack TypeScript Web3 Course on the Internet Computer</em></h2>
+
+<p align="center">
+  <strong>💻 Build sleek, on-chain web apps — no Solidity, no servers. Just TypeScript + Canisters.</strong>
+</p>
 
 ---
 
-## 🎓 Welcome to Azle Overdrive!
+## 📅 Course Overview
 
-**Azle Overdrive** is a high-speed, high-impact course designed to help web developers start building **fullstack blockchain applications** using modern tools and technologies. This course is centered around the **Internet Computer (ICP)** blockchain and walks you through deploying a fully decentralized app—frontend and backend—entirely on-chain.
+| 💡  | **Live Sessions**                |
+|------|----------------------------------|
+| 🗓️   | **May 13 – 16, 2025**            |
+| 🕗   | **8:00 PM – 9:00 PM (ET)**       |
+| 🌍   | **Remote • Interactive • Live** |
+| 🧭   | **4 Sessions • 4 Git Branches** |
 
-Whether you're new to blockchain or an experienced developer looking to transition into Web3 with **TypeScript**, this course will get you building fast.
-
----
-
-## 🗂️ Course Structure
-
-This course is delivered in **4 live sessions**, with each session mapped to a **GitHub branch** in this repository.  
-
-> ✅ Completion of each session unlocks a GitHub invite to the **next branch** containing finished solutions and examples.
+> ✅ Each session unlocks access to the next via GitHub.
 
 ---
 
-### 📘 **Session 1: Getting Started**
-- What is the Internet Computer?
+## 🚀 What You'll Build
+
+Azle Overdrive is a guided sprint that transforms TypeScript developers into fully capable Web3 builders. You'll learn to:
+
+- 🧱 Create **backend canisters** (smart contracts)
+- 🌐 Deploy and host **frontend UIs** on-chain
+- 🔐 Add **authentication** and connect layers
+- 🚀 Build fully decentralized dApps — **no Web2 fallback**
+
+> All powered by the **Internet Computer** and written in **TypeScript** with Azle.
+
+---
+
+## 🧭 Session Breakdown
+
+### 🟠 Session 1 — *Getting Started*
+> _From tooling to your first deploy_
+
+- Intro to the Internet Computer
 - Why build on ICP?
-- Setting up your development environment (Ubuntu-based)
-- Basic canister commands and DFX tooling
+- Setting up Ubuntu + dev tools
+- Deploy your first canister with `dfx`
 
-### 🧠 **Session 2: Canister Smart Contracts**
-- Introduction to canisters (ICP's smart contracts)
-- Creating your first Azle canister in TypeScript
-- Adding logic and state
-- Deploying and testing with DFX
+---
 
-### 🌐 **Session 3: Frontend & File Hosting**
-- Understanding ICP’s file hosting model
-- Building a frontend in TypeScript
-- Interfacing frontend with your backend canister
-- Adding authentication and web integration
+### 🔵 Session 2 — *Smart Contracts with Azle*
+> _The heart of your dApp logic_
 
-### 🚀 **Session 4: Expanding Your Project**
-- Inter-canister interactions and messaging
-- Exploring real-world Web3 apps on ICP
-- Developer resources and R&D tools
-- Project ideas and how to get involved in the community
+- What are canisters?
+- Create your first Azle contract in TypeScript
+- Add logic, state, and functionality
+- Deploy and test your backend
+
+---
+
+### 🟣 Session 3 — *Frontend & File Hosting*
+> _Bringing your UI to life_
+
+- Serve files over the Internet Computer
+- Build your frontend in TypeScript
+- Connect backend + frontend
+- Add simple auth and login flow
+
+---
+
+### 🟡 Session 4 — *Expand & Innovate*
+> _Going beyond the basics_
+
+- Inter-canister communication
+- Real dApp use case examples
+- ICP dev tools and R&D resources
+- Project ideas to take further
+
+---
+
+## 🎨 Why Azle + ICP?
+
+- 🧠 **TypeScript-native** smart contract syntax
+- 🌐 **Host fullstack apps fully on-chain**
+- 🚫 **No Solidity**, no gas fees, no vendor lock-in
+- 🔓 **Open source**, extensible tooling
+- 🚀 Built for modern developers with Web3 ambitions
+
+> 💬 *Azle brings TypeScript into the future — one canister at a time.*
 
 ---
 
 ## ⚠️ Disclaimer
 
-This course may evolve as tooling improves. Installation or deployment errors may occur depending on your environment or changes in dependencies. Your feedback is **greatly appreciated** to help improve future versions!
+This course is actively maintained, but tooling is evolving.  
+You may encounter installation or deployment issues depending on environment or updates.
+
+🔁 **Feedback is welcome. Pull requests encouraged.**
 
 ---
 
-## 💬 Feedback & Questions?
+## 👨‍🏫 Instructor
 
-Feel free to open issues or reach out after class sessions. Collaboration is encouraged—this is how Web3 grows.
+**Daniel McCoy**  
+Fullstack Engineer • Web3 Educator • Founder of uBin
+
+🌐 [danielmccoy.us](https://danielmccoy.us)  
+🔗 [@RealDanMcCoy on X](https://x.com/RealDanMcCoy)
+
+---
+
+<p align="center">
+  <em>💥 Build boldly. Learn fast. Deploy to the future.</em>
+</p>
