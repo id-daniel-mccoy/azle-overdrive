@@ -14,4 +14,13 @@ After cloning this repository, if everything was setup correctly, you can run:
 
 npm run setup
 
-This should automate all of the configurations for the project moving forward.
+This should automate all of the configurations for the project moving forward. If for some reason part of it fails, these are the commands
+for manual setup. You would have to run them inside of both the frontend and backend folders.
+
+dfx killall
+dfx start --clean --background
+dfx canister create --all
+dfx deploy
+dfx stop
+
+Those commands are also how you start a local replica of the Internet Computer blockchain and locally deploy your applications for testing.
