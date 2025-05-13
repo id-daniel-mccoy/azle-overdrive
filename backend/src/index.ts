@@ -24,7 +24,7 @@ import {
     nat8
 } from 'azle/experimental';
 
-const message = "Hello world!";
+const message = "Hello, world!";
 
 const getMessage = (): text => {
     return message;
