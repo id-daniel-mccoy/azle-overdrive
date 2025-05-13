@@ -1,0 +1,17 @@
+Welcome to Azle Overdrive!
+
+To get started with this course, ensure that you have the correct tools installed and configured:
+
+- Ubuntu v22.04
+- GitHub CLI (git) Access
+- Node v23.3.0 + NPM v10.9.0
+- DFX v0.25.0
+- Code Editor (Your Choice)
+
+Inside of this repository is a PDF file for assisting with the setup.
+
+After cloning this repository, if everything was setup correctly, you can run:
+
+npm run setup
+
+This should automate all of the configurations for the project moving forward.
