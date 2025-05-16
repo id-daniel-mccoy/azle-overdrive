@@ -1,3 +1,6 @@
 service: () -> {
-    getMessage: () -> (text) query;
+    createUser: (text) -> (text);
+    getAllData: () -> (vec record {text; record {bio:text; username:text}}) query;
+    getAllUsers: () -> (vec record {bio:text; username:text}) query;
+    who: () -> (text) query;
 }
