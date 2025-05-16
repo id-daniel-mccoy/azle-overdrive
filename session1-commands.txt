@@ -1,0 +1,44 @@
+Installing VS Code using Snap:
+
+snap install code --classic
+
+Installing NVM using Curl:
+
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh |
+bash
+source ~/.bashrc 
+
+Installing Node v23.3.0 using NVM:
+
+nvm install 23.3.0
+nvm use 23.3.0
+nvm alias default 23.3.0
+
+Installing DFX version manager:
+
+curl -sSL https://sdk.dfinity.org/install.sh | bash 
+"$HOME/.local/share/dfx/env"
+
+Installing DFX using DFXVM:
+
+dfxvm install 0.25.0 
+dfxvm default 0.25.0
+
+Installing Github CLI:
+
+sudo apt install git
+
+Git Cloning the class repository:
+
+git clone https://github.com/id-daniel-mccoy/azle-overdrive.git
+cd azle-overdrive
+
+Recommended ICP Wallet:
+
+https://plugwallet.ooo
+
+My personal contact methods:
+
+Website: https://danielmccoy.us
+GitHub: https://github.com/id-daniel-mccoy
+X (Twitter): https://x.com/realdanmccoy
